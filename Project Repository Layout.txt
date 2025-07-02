@@ -1,0 +1,20 @@
+Zdelta_Rendering_Instrument/
+├── LICENSE
+├── README.md
+├── docs/
+│   ├── whitepaper.md
+│   ├── whitepaper.tex
+│   └── glossary.md
+├── bom/
+│   ├── axis_bom.csv
+│   └── axis_bom.md
+├── schematics/
+│   ├── axis_block_diagram.svg      (placeholder)
+│   ├── bridgebox_schematic.svg     (placeholder)
+│   └── neckboard_schematic.svg     (placeholder)
+├── render/
+│   └── exploded_view_layout.txt
+└── scripts/
+    └── fpga/
+        ├── zdelta_core.v
+        └── zdelta_tb.v
