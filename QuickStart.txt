@@ -1,0 +1,12 @@
+
+## Quickstart
+
+1. **Whitepaper**: `docs/whitepaper.md` → PDF via Pandoc or LaTeX  
+2. **BOM**: `bom/axis_bom.csv` import into your parts manager  
+3. **HDL**: `scripts/fpga/zdelta_core.v` + `zdelta_tb.v` in Vivado/ModelSim  
+4. **Schematics**: Use the `.md` guides in `schematics/` to drive your CAD  
+5. **Render**: Hand `render/exploded_view_layout.txt` to your concept artist
+
+## License
+
+CERN-OHL-S v2.0 – see `LICENSE`

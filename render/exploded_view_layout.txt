@@ -1,0 +1,30 @@
+EXPLODED-VIEW LAYERS (Top→Bottom):
+
+1. CRT Face & Shadowmask
+2. Phosphor Screen
+3. Deflection Yoke & Mu-metal Shield
+4. Neckboard Assembly
+   ├─ Cathode drivers (R/G/B)
+   ├─ Alpha grid modulator
+   ├─ β Phase modulator coils
+   ├─ θ Focus coil bank
+   ├─ Δ Contrast pre-emphasis amp
+   ├─ ε/ζ convergence & geometry coils
+   └─ Telemetry sensors (landing, spot, current)
+5. Signal Harness Bulkhead
+   ├─ 20× RG-179 coax feedthroughs
+   ├─ LVDS sync connector
+   └─ Feedback twisted-pair block
+6. Bridgebox Sub-rack
+   ├─ DAC matrix (20× modules)
+   ├─ RC/EMI filter board
+   ├─ Buffer amplifier board
+   ├─ FPGA core board
+   └─ Power & TEC controller
+7. Optical Interconnect Panel
+8. Compute Cluster Rack
+   ├─ 64× render blades
+   └─ OCXO genlock module
+9. Chassis Shell
+   ├─ Aluminum frame + Faraday cage
+   └─ Vibration-damped mounting feet

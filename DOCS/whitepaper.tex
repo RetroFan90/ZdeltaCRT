@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx,booktabs,hyperref}
+\title{Zdelta-Class CRT Rendering Instrument:\\A True 1:1, Beam-Synchronized Architecture}
+\author{Nathan}
+\date{\today}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+An ultra-precision, 20-axis visual mainframe achieving sub-atomic beam control.
+\end{abstract}
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+\input{signal_taxonomy.tex}
+
+\section{Signal Taxonomy}
+\begin{table}[h]
+\centering
+\begin{tabular}{lll}
+\toprule
+Symbol & Domain      & Purpose                           \\
+\midrule
+R, G, B & Color      & Cathode drive                     \\
+A       & Alpha      & HDR grid current                  \\
+... & ... & ...\\
+\bottomrule
+\end{tabular}
+\caption{All 20 modulation axes.}
+\end{table}
+
+\section{System Architecture}
+\subsection{Compute Cluster}
+\subsection{Optical Interconnect}
+\subsection{Bridgebox}
+\subsection{Neckboard}
+
+\section{Analog Chain Design}
+\input{analog_chain.tex}
+
+\section{Feedback \& Correction}
+\input{feedback_loops.tex}
+
+\section{Meta-Axes: Manufacturing, Compliance, ...}
+
+\section{Harness \& Chassis Layout}
+
+\section{Validation \& Future-Proofing}
+
+\section{Conclusion}
+
+\bibliographystyle{plain}
+\bibliography{zdelta_refs}
+
+\end{document}

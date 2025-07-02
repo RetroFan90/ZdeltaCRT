@@ -1,0 +1,25 @@
+Axis,Component,Spec,Part Number,Supplier,Alternate,Lead Time (wks),Cost (ea)
+R,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+G,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+B,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+A,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+β,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+γ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+θ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+Δ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+ε,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+ζ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+η,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+κ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+λ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+μ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+ν,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+ξ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+ρ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+σ,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+Ω,DAC,16-bit @10 GS/s,AD9164,Analog Devices,MAX5875,4,120$
+Mf,TEC Module,20× Peltier Block,CP85438,TE Tech,Custom,2,15$
+Cp,EMI Can,Copper+Mu-metal,EMI-CAN-20,Laird,EMI-CAN-18,1,8$
+Sv,ADC,16-bit @1 MS/s,ADS8866,TI,AD7988,3,6$
+UI,FPGA,Artix-7 XC7A200T,XC7A200T,Xilinx,Kintex-7,6,80$
+Su,Shielding Tape,3M EMI foil,1181,3M,,1,2$
